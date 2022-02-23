@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### 'npm add styled-components'
+### `npm add styled-components`
 Untuk menambahkan library styled components
 
-### 'npm add react-router-dom react-icons'
+### `npm add react-router-dom react-icons`
 Untuk menambahkan library React Router DOM dan React Icons
 
 ### `npm start`
